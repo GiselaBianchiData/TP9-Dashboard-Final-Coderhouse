@@ -137,7 +137,7 @@ A partir de esta revisión:
 
 La documentación completa se encuentra en:
 
-`Documentacion_Uso_IA_TP9_BianchiGisela.pdf`
+Registro_de_Prompts_IA_BianchiGisela.pdf
 
 y dentro del libro en la hoja oculta:
 
@@ -204,7 +204,7 @@ Esta captura evidencia el funcionamiento de los segmentadores. Al seleccionar la
 5. Comprobar la actualización de KPIs, gráficos y narrativa dinámica.
 6. Para inspeccionar el ETL, ingresar en `Datos > Consultas y conexiones`.
 7. Para revisar el modelo y las medidas, ingresar en `Power Pivot > Administrar`.
-8. Consultar `Documentacion_Uso_IA_TP9_BianchiGisela.pdf` para revisar los prompts, el análisis crítico y la validación de insights.
+8. Consultar `Registro_de_Prompts_IA_BianchiGisela.pdf` para revisar los prompts, el análisis crítico y la validación de insights.
 
 ---
 
