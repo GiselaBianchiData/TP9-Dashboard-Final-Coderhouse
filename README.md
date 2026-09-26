@@ -179,18 +179,32 @@ También pueden verificarse directamente dentro del Excel:
 - Dashboard interactivo.
 - Documentación del uso de IA.
 
+### Evidencias visuales de la rúbrica
+
+#### Dashboard Final - Diseño UI y KPIs
+
+![Dashboard Final](Evidencias/01_Dashboard_Final_Completo.png)
+
+Esta captura evidencia el diseño ejecutivo del dashboard, los tres KPIs, los tres segmentadores, las visualizaciones, el gráfico avanzado de dispersión y la capa narrativa.
+
+#### Interactividad - Segmentadores conectados
+
+![Dashboard filtrado por Región Norte](Evidencias/02_Dashboard_Filtro_Region_Norte.png)
+
+Esta captura evidencia el funcionamiento de los segmentadores. Al seleccionar la Región Norte se actualizan los KPIs, los gráficos y los elementos narrativos dinámicos.
+
 ---
 
 ## Instrucciones de verificación
 
 1. Descargar `TP9_Dashboard_Final_BianchiGisela.xlsx`.
 2. Abrirlo con Microsoft Excel de escritorio.
-3. Ingresar a `Dashboard Final`.
+3. Ingresar a la hoja `Dashboard Final`.
 4. Utilizar los segmentadores de Mes, Categoría y Región.
 5. Comprobar la actualización de KPIs, gráficos y narrativa dinámica.
 6. Para inspeccionar el ETL, ingresar en `Datos > Consultas y conexiones`.
 7. Para revisar el modelo y las medidas, ingresar en `Power Pivot > Administrar`.
-8. Consultar `Documentacion_Uso_IA_TP9_BianchiGisela.pdf` para revisar los prompts y la validación de insights.
+8. Consultar `Documentacion_Uso_IA_TP9_BianchiGisela.pdf` para revisar los prompts, el análisis crítico y la validación de insights.
 
 ---
 
